@@ -1,0 +1,43 @@
+body {
+    font-size: 90%;
+}
+
+body {
+  background-image: url('../bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-container {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 0;
+}
+
+.mb-4 {
+  margin-bottom: 0; /* Adjusted to remove the extra space */
+  margin-top: 3rem;
+}
+.d-flex {
+  margin-top: 2rem;
+  margin-bottom: 0; /* Adjusted to remove the extra space */
+}
+
+h5, h6, h3 {
+    font-size: 1em;
+}
+h1{
+  font-size: 0.6em;
+}
+
+p {
+    font-size: 0.9em;
+}
+
+.btn {
+    font-size: 0.9em;
+}
+
+.mt-1 {
+    margin-top: 0;
+}
